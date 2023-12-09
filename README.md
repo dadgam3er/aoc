@@ -1,2 +1,2 @@
 # aoc
-my journey to solving puzzles.
+Embarking on a quest to solve Advent of Code puzzles
